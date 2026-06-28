@@ -21,3 +21,16 @@ The digital control logic was successfully verified using Icarus Verilog (`iveri
 
 ## 📜 License
 This project is licensed under the MIT License.
+
+## 🛠️ Verification & Testing
+The digital control logic and thermodynamic constraints have been fully modeled and verified.
+
+### 1. Substrate Current Optimization Curve
+The 1D implicit solver maps out the precise inflection point where linear Peltier cooling gives way to quadratic parasitic Joule heating, identifying the absolute performance ceiling at $1.21\text{ A}$.
+
+![Optimization Curve](assets/optimization_curve.png)
+
+### 2. RTL Pipeline Look-Ahead Trace
+The digital control logic was successfully verified using Icarus Verilog (`iverilog`), demonstrating single-cycle proactive scaling and a robust thermal emergency override gate.
+
+![RTL Simulation Trace](assets/rtl_simulation_trace.png)
