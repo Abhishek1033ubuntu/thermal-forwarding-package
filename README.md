@@ -20,7 +20,7 @@ The digital control logic was successfully verified using Icarus Verilog (`iveri
 * **Scenario D (Thermal Emergency):** Telemetry override forces immediate max cooling upon detecting an external junction temperature breach (>350 K).
 
 ## 📜 License
-This project is licensed under the MIT License.
+This repository's documentation, algorithmic structures, material parameters, and technical report architectures are securely licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0). 
 
 ## 🛠️ Verification & Testing
 The digital control logic and thermodynamic constraints have been fully modeled and verified.
