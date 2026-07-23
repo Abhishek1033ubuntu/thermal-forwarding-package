@@ -2,6 +2,8 @@
 
 An advanced heterogeneous semiconductor packaging architecture that bridges software workload awareness with solid-state thermodynamics to bypass thermal barriers in high-performance computing (HPC) nodes.
 
+https://zenodo.org/badge/DOI/10.5281/zenodo.21509778.svg)](https://doi.org/10.5281/zenodo.21509778)
+
 ## 🚀 Core Features
 * **Predictive Thermal Management:** Intercepts high-weight instructions (AVX-512, Tensor matrix loops) at the Decode pipeline stage to activate cooling before the physical heat wave propagates.
 * **Heterogeneous Substrate Allocation:** Places active p-type thermal pillars under high-density logic zones while utilizing high-strength, low-cost SiC and AlN for passive structural balancing.
