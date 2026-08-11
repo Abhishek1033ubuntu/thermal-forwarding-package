@@ -1,11 +1,12 @@
 # Co-Designed Active Phonon-Drag Forwarding Package Matrix
-
-An advanced heterogeneous semiconductor packaging architecture that bridges software workload awareness with solid-state thermodynamics to bypass thermal barriers in high-performance computing (HPC) nodes.
 ---
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21509778.svg)](https://doi.org/10.5281/zenodo.21509778)
 ![Status](https://img.shields.io/badge/Status-Research_POC-orange)
 ![Type](https://img.shields.io/badge/Type-Simulation_Model-blue)
+
 ---
+
+An advanced heterogeneous semiconductor packaging architecture that bridges software workload awareness with solid-state thermodynamics to bypass thermal barriers in high-performance computing (HPC) nodes.
 
 ## 🚀 Core Features
 * **Predictive Thermal Management:** Intercepts high-weight instructions (AVX-512, Tensor matrix loops) at the Decode pipeline stage to activate cooling before the physical heat wave propagates.
