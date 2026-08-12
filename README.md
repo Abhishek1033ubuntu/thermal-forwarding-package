@@ -1,5 +1,6 @@
 # Co-Designed Active Phonon-Drag Forwarding Package Matrix
----
+
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21509778.svg)](https://doi.org/10.5281/zenodo.21509778)
 ![Status](https://img.shields.io/badge/Status-Research_POC-orange)
 ![Type](https://img.shields.io/badge/Type-Simulation_Model-blue)
@@ -40,3 +41,5 @@ The 1D implicit solver maps out the precise inflection point where linear Peltie
 The digital control logic was successfully verified using Icarus Verilog (`iverilog`), demonstrating single-cycle proactive scaling and a robust thermal emergency override gate.
 
 ![RTL Simulation Trace](assets/rtl_simulation_trace.png)
+
+Note on References & IP: Detailed citations and literature references are restricted to protect Intellectual Property. See References.md for details or to request access.
